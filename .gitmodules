@@ -1,0 +1,6 @@
+[submodule "rpld"]
+	path = rpld
+	url = https://github.com/linux-wpan/rpld.git
+[submodule "mininet-wifi"]
+	path = mininet-wifi
+	url = https://github.com/intrig-unicamp/mininet-wifi.git

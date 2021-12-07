@@ -1,0 +1,32 @@
+#!/bin/bash
+
+for i in `seq 0 36`
+do
+	if [ "$i" == 0 ]
+	then
+			echo $i' '`expr $i + 1`
+	        #echo `expr $i + 1`' '$i
+	else
+		if [ "$i" -gt 7 -a `expr "$i" % 6` != 1 ]
+		then
+			echo $i' '`expr $i - 7`
+	        #echo `expr $i + 6`' '$i
+		fi
+		if [ "$i" -gt 6 -a `expr "$i" % 6` != 0 ]
+		then
+			echo $i' '`expr $i - 5`
+	        #echo `expr $i + 6`' '$i
+		fi
+		if [ `expr "$i" % 6` != 0 ]
+		then
+			echo $i' '`expr $i + 1`
+	        #echo `expr $i + 1`' '$i
+		fi
+		if [ "$i" -lt 31 ]
+		then
+			echo $i' '`expr $i + 6`
+	        #echo `expr $i + 6`' '$i
+		fi
+	fi
+	
+done

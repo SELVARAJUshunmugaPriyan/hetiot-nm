@@ -1,0 +1,36 @@
+A_W_6_0L_10.log
+600 packets transmitted, 596 received, +4 errors, 0.666667% packet loss, time 600368ms
+rtt min/avg/max/mdev = 12.082/20.415/103.699/10.154 ms, pipe 4
+A_W_6_0L_20.log
+600 packets transmitted, 596 received, +4 errors, 0.666667% packet loss, time 600172ms
+rtt min/avg/max/mdev = 14.019/24.096/115.298/11.044 ms, pipe 4
+A_W_6_0L_30.log
+600 packets transmitted, 596 received, +4 errors, 0.666667% packet loss, time 600114ms
+rtt min/avg/max/mdev = 16.440/26.635/102.654/10.489 ms, pipe 4
+A_W_6_0L_40.log
+600 packets transmitted, 596 received, +4 errors, 0.666667% packet loss, time 600014ms
+rtt min/avg/max/mdev = 18.830/32.278/129.950/14.493 ms, pipe 4
+A_W_6_0L_50.log
+600 packets transmitted, 600 received, 0% packet loss, time 600249ms
+rtt min/avg/max/mdev = 20.315/42.595/2255.788/104.456 ms, pipe 3
+A_W_6_0L_60.log
+600 packets transmitted, 596 received, +4 errors, 0.666667% packet loss, time 600066ms
+rtt min/avg/max/mdev = 22.836/43.602/186.129/20.201 ms, pipe 4
+M_W_6_0L_10.log
+600 packets transmitted, 558 received, +10 errors, 7% packet loss, time 600710ms
+rtt min/avg/max/mdev = 11.248/16.556/61.557/4.755 ms, pipe 4
+M_W_6_0L_20.log
+600 packets transmitted, 542 received, +17 errors, 9.66667% packet loss, time 600969ms
+rtt min/avg/max/mdev = 12.626/21.353/497.441/21.797 ms, pipe 9
+M_W_6_0L_30.log
+600 packets transmitted, 532 received, +14 errors, 11.3333% packet loss, time 602083ms
+rtt min/avg/max/mdev = 14.113/263.481/12539.347/1516.043 ms, pipe 18
+M_W_6_0L_40.log
+600 packets transmitted, 518 received, +21 errors, 13.6667% packet loss, time 605487ms
+rtt min/avg/max/mdev = 15.534/1805.644/42823.996/6685.318 ms, pipe 42
+M_W_6_0L_50.log
+600 packets transmitted, 501 received, +27 errors, 16.5% packet loss, time 619760ms
+rtt min/avg/max/mdev = 18.066/2254.188/54535.041/8049.000 ms, pipe 45
+M_W_6_0L_60.log
+600 packets transmitted, 451 received, +55 errors, 24.8333% packet loss, time 641434ms
+rtt min/avg/max/mdev = 20.516/2273.468/74495.395/9178.257 ms, pipe 46

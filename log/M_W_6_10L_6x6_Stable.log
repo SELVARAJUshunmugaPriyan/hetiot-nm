@@ -1,0 +1,35 @@
+PING 198.51.100.100 (198.51.100.100) 1232(1260) bytes of data.
+1240 bytes from 198.51.100.100: icmp_seq=23 ttl=52 time=42.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=28 ttl=52 time=37.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=46 ttl=52 time=44.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=67 ttl=52 time=319 ms
+1240 bytes from 198.51.100.100: icmp_seq=80 ttl=52 time=31.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=84 ttl=52 time=42.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=101 ttl=52 time=91.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=104 ttl=52 time=81.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=105 ttl=52 time=57.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=106 ttl=52 time=94.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=116 ttl=52 time=27.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=118 ttl=52 time=32.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=154 ttl=52 time=68.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=164 ttl=52 time=28.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=166 ttl=52 time=352 ms
+1240 bytes from 198.51.100.100: icmp_seq=185 ttl=52 time=187 ms
+1240 bytes from 198.51.100.100: icmp_seq=198 ttl=52 time=95.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=207 ttl=52 time=100 ms
+1240 bytes from 198.51.100.100: icmp_seq=219 ttl=52 time=27.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=229 ttl=52 time=102 ms
+1240 bytes from 198.51.100.100: icmp_seq=235 ttl=52 time=36.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=239 ttl=52 time=115 ms
+1240 bytes from 198.51.100.100: icmp_seq=246 ttl=52 time=31.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=258 ttl=52 time=40.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=271 ttl=52 time=101 ms
+1240 bytes from 198.51.100.100: icmp_seq=274 ttl=52 time=36.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=287 ttl=52 time=43.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=291 ttl=52 time=204 ms
+1240 bytes from 198.51.100.100: icmp_seq=299 ttl=52 time=79.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=300 ttl=52 time=73.1 ms
+
+--- 198.51.100.100 ping statistics ---
+300 packets transmitted, 30 received, 90% packet loss, time 305665ms
+rtt min/avg/max/mdev = 27.550/87.505/351.561/79.044 ms

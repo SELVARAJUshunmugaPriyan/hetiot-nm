@@ -1,0 +1,372 @@
+PING 198.51.100.100 (198.51.100.100) 1232(1260) bytes of data.
+From 10.0.0.26 icmp_seq=1 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=2 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=3 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=4 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=5 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=6 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=7 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=8 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=9 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=10 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=11 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=12 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=13 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=14 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=15 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=16 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=17 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=18 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=19 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=20 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=21 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=22 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=23 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=24 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=25 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=26 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=27 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=28 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=29 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=30 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=31 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=32 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=33 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=34 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=35 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=36 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=37 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=38 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=39 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=40 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=41 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=42 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=43 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=44 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=45 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=46 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=47 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=48 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=49 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=50 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=51 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=52 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=53 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=54 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=55 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=56 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=57 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=58 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=59 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=60 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=61 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=62 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=63 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=64 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=65 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=66 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=67 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=68 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=69 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=70 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=71 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=72 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=73 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=74 Destination Host Unreachable
+From 10.0.0.26 icmp_seq=75 Destination Host Unreachable
+1240 bytes from 198.51.100.100: icmp_seq=95 ttl=53 time=98942 ms
+1240 bytes from 198.51.100.100: icmp_seq=96 ttl=53 time=98415 ms
+1240 bytes from 198.51.100.100: icmp_seq=100 ttl=53 time=94598 ms
+1240 bytes from 198.51.100.100: icmp_seq=92 ttl=53 time=110172 ms
+1240 bytes from 198.51.100.100: icmp_seq=114 ttl=53 time=82406 ms
+1240 bytes from 198.51.100.100: icmp_seq=110 ttl=53 time=89707 ms
+1240 bytes from 198.51.100.100: icmp_seq=119 ttl=53 time=72528 ms
+1240 bytes from 198.51.100.100: icmp_seq=120 ttl=53 time=70983 ms
+1240 bytes from 198.51.100.100: icmp_seq=116 ttl=53 time=76507 ms
+1240 bytes from 198.51.100.100: icmp_seq=121 ttl=53 time=67608 ms
+1240 bytes from 198.51.100.100: icmp_seq=127 ttl=53 time=58412 ms
+1240 bytes from 198.51.100.100: icmp_seq=122 ttl=53 time=70471 ms
+1240 bytes from 198.51.100.100: icmp_seq=126 ttl=53 time=63365 ms
+1240 bytes from 198.51.100.100: icmp_seq=137 ttl=53 time=45225 ms
+1240 bytes from 198.51.100.100: icmp_seq=139 ttl=53 time=43427 ms
+1240 bytes from 198.51.100.100: icmp_seq=141 ttl=53 time=40091 ms
+1240 bytes from 198.51.100.100: icmp_seq=142 ttl=53 time=39255 ms
+1240 bytes from 198.51.100.100: icmp_seq=143 ttl=53 time=38414 ms
+1240 bytes from 198.51.100.100: icmp_seq=144 ttl=53 time=37517 ms
+1240 bytes from 198.51.100.100: icmp_seq=148 ttl=53 time=31563 ms
+1240 bytes from 198.51.100.100: icmp_seq=150 ttl=53 time=29916 ms
+1240 bytes from 198.51.100.100: icmp_seq=147 ttl=53 time=33966 ms
+1240 bytes from 198.51.100.100: icmp_seq=169 ttl=53 time=13320 ms
+1240 bytes from 198.51.100.100: icmp_seq=170 ttl=53 time=12634 ms
+1240 bytes from 198.51.100.100: icmp_seq=177 ttl=53 time=9214 ms
+1240 bytes from 198.51.100.100: icmp_seq=180 ttl=53 time=8782 ms
+1240 bytes from 198.51.100.100: icmp_seq=181 ttl=53 time=9600 ms
+1240 bytes from 198.51.100.100: icmp_seq=183 ttl=53 time=10091 ms
+1240 bytes from 198.51.100.100: icmp_seq=185 ttl=53 time=10223 ms
+1240 bytes from 198.51.100.100: icmp_seq=186 ttl=53 time=9505 ms
+1240 bytes from 198.51.100.100: icmp_seq=188 ttl=53 time=7612 ms
+1240 bytes from 198.51.100.100: icmp_seq=189 ttl=53 time=6645 ms
+1240 bytes from 198.51.100.100: icmp_seq=191 ttl=53 time=4652 ms
+1240 bytes from 198.51.100.100: icmp_seq=192 ttl=53 time=3641 ms
+1240 bytes from 198.51.100.100: icmp_seq=194 ttl=53 time=1631 ms
+1240 bytes from 198.51.100.100: icmp_seq=195 ttl=53 time=619 ms
+1240 bytes from 198.51.100.100: icmp_seq=198 ttl=53 time=194 ms
+1240 bytes from 198.51.100.100: icmp_seq=199 ttl=53 time=115 ms
+1240 bytes from 198.51.100.100: icmp_seq=200 ttl=53 time=90.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=201 ttl=53 time=111 ms
+1240 bytes from 198.51.100.100: icmp_seq=202 ttl=53 time=89.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=203 ttl=53 time=114 ms
+1240 bytes from 198.51.100.100: icmp_seq=204 ttl=53 time=153 ms
+1240 bytes from 198.51.100.100: icmp_seq=207 ttl=53 time=28.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=209 ttl=53 time=47.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=211 ttl=53 time=37.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=215 ttl=53 time=58.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=217 ttl=53 time=90.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=222 ttl=53 time=68.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=223 ttl=53 time=67.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=224 ttl=53 time=108 ms
+1240 bytes from 198.51.100.100: icmp_seq=225 ttl=53 time=111 ms
+1240 bytes from 198.51.100.100: icmp_seq=226 ttl=53 time=38.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=227 ttl=53 time=31.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=229 ttl=53 time=37.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=230 ttl=53 time=62.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=234 ttl=53 time=90.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=235 ttl=53 time=156 ms
+1240 bytes from 198.51.100.100: icmp_seq=236 ttl=53 time=42.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=237 ttl=53 time=31.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=238 ttl=53 time=47.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=240 ttl=53 time=28.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=241 ttl=53 time=36.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=245 ttl=53 time=35.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=246 ttl=53 time=34.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=247 ttl=53 time=37.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=248 ttl=53 time=28.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=250 ttl=53 time=35.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=251 ttl=53 time=27.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=255 ttl=53 time=39.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=257 ttl=53 time=25.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=258 ttl=53 time=24.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=259 ttl=53 time=69.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=260 ttl=53 time=28.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=261 ttl=53 time=35.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=262 ttl=53 time=27.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=263 ttl=53 time=31.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=265 ttl=53 time=40.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=267 ttl=53 time=27.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=268 ttl=53 time=69.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=270 ttl=53 time=45.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=272 ttl=53 time=29.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=274 ttl=53 time=28.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=276 ttl=53 time=44.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=277 ttl=53 time=73.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=279 ttl=53 time=83.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=280 ttl=53 time=83.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=281 ttl=53 time=105 ms
+1240 bytes from 198.51.100.100: icmp_seq=282 ttl=53 time=73.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=283 ttl=53 time=232 ms
+1240 bytes from 198.51.100.100: icmp_seq=286 ttl=53 time=112 ms
+1240 bytes from 198.51.100.100: icmp_seq=288 ttl=53 time=86.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=292 ttl=53 time=103 ms
+1240 bytes from 198.51.100.100: icmp_seq=295 ttl=53 time=89.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=297 ttl=53 time=79.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=298 ttl=53 time=75.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=300 ttl=53 time=40.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=301 ttl=53 time=41.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=306 ttl=53 time=36.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=307 ttl=53 time=24.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=308 ttl=53 time=50.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=309 ttl=53 time=34.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=310 ttl=53 time=25.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=311 ttl=53 time=53.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=314 ttl=53 time=34.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=315 ttl=53 time=24.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=317 ttl=53 time=24.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=319 ttl=53 time=28.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=321 ttl=53 time=31.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=322 ttl=53 time=94.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=323 ttl=53 time=22.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=324 ttl=53 time=24.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=325 ttl=53 time=21.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=326 ttl=53 time=27.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=328 ttl=53 time=29.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=330 ttl=53 time=26.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=331 ttl=53 time=25.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=333 ttl=53 time=29.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=334 ttl=53 time=27.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=335 ttl=53 time=26.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=336 ttl=53 time=26.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=338 ttl=53 time=23.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=340 ttl=53 time=27.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=341 ttl=53 time=73.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=342 ttl=53 time=40.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=346 ttl=53 time=71.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=347 ttl=53 time=33.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=348 ttl=53 time=30.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=349 ttl=53 time=36.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=353 ttl=53 time=25.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=355 ttl=53 time=51.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=357 ttl=53 time=35.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=358 ttl=53 time=36.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=359 ttl=53 time=31.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=361 ttl=53 time=29.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=362 ttl=53 time=22.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=363 ttl=53 time=30.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=364 ttl=53 time=68.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=365 ttl=53 time=35.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=366 ttl=53 time=37.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=368 ttl=53 time=24.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=370 ttl=53 time=34.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=371 ttl=53 time=34.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=372 ttl=53 time=25.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=373 ttl=53 time=24.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=375 ttl=53 time=25.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=376 ttl=53 time=29.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=377 ttl=53 time=32.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=379 ttl=53 time=82.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=380 ttl=53 time=34.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=381 ttl=53 time=27.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=383 ttl=53 time=31.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=385 ttl=53 time=30.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=386 ttl=53 time=24.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=387 ttl=53 time=25.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=388 ttl=53 time=53.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=390 ttl=53 time=57.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=392 ttl=53 time=52.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=393 ttl=53 time=219 ms
+1240 bytes from 198.51.100.100: icmp_seq=394 ttl=53 time=23.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=395 ttl=53 time=27.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=396 ttl=53 time=39.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=397 ttl=53 time=25.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=398 ttl=53 time=47.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=400 ttl=53 time=26.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=401 ttl=53 time=24.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=404 ttl=53 time=25.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=405 ttl=53 time=24.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=406 ttl=53 time=33.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=407 ttl=53 time=63.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=408 ttl=53 time=27.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=409 ttl=53 time=301 ms
+1240 bytes from 198.51.100.100: icmp_seq=410 ttl=53 time=1036 ms
+1240 bytes from 198.51.100.100: icmp_seq=411 ttl=53 time=28.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=413 ttl=53 time=26.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=414 ttl=53 time=28.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=415 ttl=53 time=31.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=416 ttl=53 time=24.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=417 ttl=53 time=49.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=418 ttl=53 time=26.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=419 ttl=53 time=27.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=420 ttl=53 time=23.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=421 ttl=53 time=65.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=422 ttl=53 time=24.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=425 ttl=53 time=28.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=426 ttl=53 time=2459 ms
+1240 bytes from 198.51.100.100: icmp_seq=427 ttl=53 time=2516 ms
+1240 bytes from 198.51.100.100: icmp_seq=428 ttl=53 time=2088 ms
+1240 bytes from 198.51.100.100: icmp_seq=429 ttl=53 time=1107 ms
+1240 bytes from 198.51.100.100: icmp_seq=430 ttl=53 time=115 ms
+1240 bytes from 198.51.100.100: icmp_seq=432 ttl=53 time=26.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=433 ttl=53 time=29.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=437 ttl=53 time=27.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=438 ttl=53 time=26.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=439 ttl=53 time=59.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=441 ttl=53 time=25.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=443 ttl=53 time=143 ms
+1240 bytes from 198.51.100.100: icmp_seq=445 ttl=53 time=82.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=447 ttl=53 time=91.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=449 ttl=53 time=29.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=450 ttl=53 time=28.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=452 ttl=53 time=35.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=455 ttl=53 time=214 ms
+1240 bytes from 198.51.100.100: icmp_seq=457 ttl=53 time=253 ms
+1240 bytes from 198.51.100.100: icmp_seq=458 ttl=53 time=42.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=459 ttl=53 time=43.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=461 ttl=53 time=44.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=462 ttl=53 time=58.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=463 ttl=53 time=27.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=464 ttl=53 time=36.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=466 ttl=53 time=69.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=467 ttl=53 time=28.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=469 ttl=53 time=27.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=470 ttl=53 time=32.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=474 ttl=53 time=42.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=477 ttl=53 time=23.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=478 ttl=53 time=22.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=479 ttl=53 time=78.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=480 ttl=53 time=27.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=482 ttl=53 time=33.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=485 ttl=53 time=26.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=486 ttl=53 time=23.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=487 ttl=53 time=24.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=489 ttl=53 time=52.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=490 ttl=53 time=32.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=492 ttl=53 time=25.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=494 ttl=53 time=65.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=495 ttl=53 time=33.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=496 ttl=53 time=29.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=498 ttl=53 time=66.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=499 ttl=53 time=28.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=500 ttl=53 time=27.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=501 ttl=53 time=28.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=502 ttl=53 time=25.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=504 ttl=53 time=26.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=508 ttl=53 time=31.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=509 ttl=53 time=29.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=510 ttl=53 time=27.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=511 ttl=53 time=83.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=514 ttl=53 time=37.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=515 ttl=53 time=23.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=518 ttl=53 time=33.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=520 ttl=53 time=33.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=522 ttl=53 time=33.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=525 ttl=53 time=52.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=527 ttl=53 time=38.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=528 ttl=53 time=32.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=529 ttl=53 time=71.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=530 ttl=53 time=31.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=531 ttl=53 time=33.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=533 ttl=53 time=32.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=535 ttl=53 time=32.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=537 ttl=53 time=37.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=540 ttl=53 time=79.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=541 ttl=53 time=87.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=542 ttl=53 time=56.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=543 ttl=53 time=79.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=546 ttl=53 time=26.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=547 ttl=53 time=63.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=548 ttl=53 time=25.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=549 ttl=53 time=23.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=551 ttl=53 time=23.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=553 ttl=53 time=25.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=554 ttl=53 time=35.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=556 ttl=53 time=24.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=558 ttl=53 time=29.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=559 ttl=53 time=29.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=560 ttl=53 time=27.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=561 ttl=53 time=23.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=562 ttl=53 time=29.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=565 ttl=53 time=23.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=567 ttl=53 time=34.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=568 ttl=53 time=34.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=572 ttl=53 time=35.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=573 ttl=53 time=37.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=574 ttl=53 time=21.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=577 ttl=53 time=27.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=579 ttl=53 time=22.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=580 ttl=53 time=80.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=581 ttl=53 time=24.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=582 ttl=53 time=22.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=584 ttl=53 time=37.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=586 ttl=53 time=31.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=587 ttl=53 time=27.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=588 ttl=53 time=23.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=589 ttl=53 time=22.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=593 ttl=53 time=34.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=594 ttl=53 time=59.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=595 ttl=53 time=24.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=597 ttl=53 time=23.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=598 ttl=53 time=67.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=599 ttl=53 time=30.9 ms
+
+--- 198.51.100.100 ping statistics ---
+600 packets transmitted, 292 received, +75 errors, 51.3333% packet loss, time 665756ms
+rtt min/avg/max/mdev = 21.785/5215.419/110172.262/18001.969 ms, pipe 62

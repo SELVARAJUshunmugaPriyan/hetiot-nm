@@ -1,0 +1,32 @@
+#!/bin/bash
+
+rmmod mac802154_hwsim
+rmmod mac802154
+rmmod ieee802154_6lowpan
+rmmod ieee802154
+modprobe mac802154_hwsim
+
+for i in `seq 0 1`
+do
+	wpan-hwsim add
+done
+
+# BUILD TOPOLOGY
+for i in `seq 0 1`
+do
+	if [ "$i" == 0 ]
+	then
+			eval "wpan-hwsim edge add "$i' '`expr $i + 1`
+	        eval "wpan-hwsim edge add " `expr $i + 1`' '$i
+	        eval "wpan-hwsim edge add "$i' '`expr $i + 2`
+	        eval "wpan-hwsim edge add " `expr $i + 2`' '$i
+	else
+		:
+	fi
+	ip netns add ns$i
+	iwpan phy phy$i set netns name ns$i
+	ip netns exec ns$i iwpan dev wpan$i set pan_id 0xbeef
+	ip netns exec ns$i ip link add link wpan$i name lowpan$i type lowpan
+	ip netns exec ns$i ip link set wpan$i up
+	ip netns exec ns$i ip link set lowpan$i up
+done
