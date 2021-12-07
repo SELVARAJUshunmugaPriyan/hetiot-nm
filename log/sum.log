@@ -1,0 +1,84 @@
+A_W_6_0L_6x6_Initial.log
+300 packets transmitted, 232 received, 22.6667% packet loss, time 301806ms
+rtt min/avg/max/mdev = 22.792/65.981/469.268/54.726 ms
+A_W_6_0L_6x6_Stable.log
+300 packets transmitted, 268 received, 10.6667% packet loss, time 301498ms
+rtt min/avg/max/mdev = 22.806/45.302/195.296/18.831 ms
+A_W_6_10L_6x6_Initial.log
+300 packets transmitted, 31 received, +3 errors, 89.6667% packet loss, time 305164ms
+rtt min/avg/max/mdev = 35.578/104.502/409.218/63.975 ms, pipe 4
+A_W_6_10L_6x6_Stable.log
+300 packets transmitted, 25 received, 91.6667% packet loss, time 309018ms
+rtt min/avg/max/mdev = 22.905/72.615/153.179/35.116 ms
+A_W_6_1L_6x6_Initial.log
+300 packets transmitted, 244 received, +4 errors, 18.6667% packet loss, time 300746ms
+rtt min/avg/max/mdev = 23.101/50.757/147.466/24.462 ms, pipe 5
+A_W_6_1L_6x6_Stable.log
+300 packets transmitted, 232 received, 22.6667% packet loss, time 301886ms
+rtt min/avg/max/mdev = 23.144/44.714/229.590/24.956 ms
+A_W_6_2L_6x6_Initial.log
+300 packets transmitted, 180 received, +3 errors, 40% packet loss, time 301988ms
+rtt min/avg/max/mdev = 22.613/58.074/339.063/38.811 ms, pipe 4
+A_W_6_2L_6x6_Stable.log
+300 packets transmitted, 168 received, 44% packet loss, time 303695ms
+rtt min/avg/max/mdev = 23.698/50.477/322.045/33.419 ms
+A_W_6_30L_6x6_Initial.log
+300 packets transmitted, 0 received, +1 errors, 100% packet loss, time 306061ms
+pipe 2
+A_W_6_30L_6x6_Stable.log
+300 packets transmitted, 1 received, 99.6667% packet loss, time 306545ms
+rtt min/avg/max/mdev = 68.786/68.786/68.786/0.000 ms
+A_W_6_3L_6x6_Initial.log
+300 packets transmitted, 150 received, +4 errors, 50% packet loss, time 303715ms
+rtt min/avg/max/mdev = 23.495/60.949/150.633/29.190 ms, pipe 4
+A_W_6_3L_6x6_Stable.log
+300 packets transmitted, 150 received, 50% packet loss, time 303613ms
+rtt min/avg/max/mdev = 21.634/43.966/267.116/22.677 ms
+A_W_6_5L_6x6_Initial.log
+300 packets transmitted, 80 received, +2 errors, 73.3333% packet loss, time 305535ms
+rtt min/avg/max/mdev = 23.389/89.161/1345.450/148.829 ms, pipe 4
+A_W_6_5L_6x6_Stable.log
+300 packets transmitted, 85 received, 71.6667% packet loss, time 305568ms
+rtt min/avg/max/mdev = 24.106/50.049/155.449/19.244 ms
+M_W_6_0L_6x6_Initial.log
+300 packets transmitted, 136 received, +99 errors, 54.6667% packet loss, time 327207ms
+rtt min/avg/max/mdev = 22.596/6409.264/79439.698/16654.124 ms, pipe 56
+M_W_6_0L_6x6_Stable.log
+300 packets transmitted, 271 received, 9.66667% packet loss, time 301024ms
+rtt min/avg/max/mdev = 21.772/57.896/473.652/62.739 ms
+M_W_6_10L_6x6_Initial.log
+400 packets transmitted, 36 received, +48 errors, 91% packet loss, time 414111ms
+rtt min/avg/max/mdev = 26.790/90.404/295.209/77.090 ms, pipe 4
+M_W_6_10L_6x6_Stable.log
+300 packets transmitted, 30 received, 90% packet loss, time 305665ms
+rtt min/avg/max/mdev = 27.550/87.505/351.561/79.044 ms
+M_W_6_1L_6x6_Initial.log
+300 packets transmitted, 94 received, +95 errors, 68.6667% packet loss, time 336003ms
+rtt min/avg/max/mdev = 25.935/2906.694/92758.920/12361.573 ms, pipe 62
+M_W_6_1L_6x6_Stable.log
+300 packets transmitted, 221 received, 26.3333% packet loss, time 304955ms
+rtt min/avg/max/mdev = 25.005/102.197/1022.411/150.900 ms, pipe 2
+M_W_6_2L_6x6_Initial.log
+300 packets transmitted, 67 received, +96 errors, 77.6667% packet loss, time 334118ms
+rtt min/avg/max/mdev = 23.488/1466.705/36205.710/6169.580 ms, pipe 30
+M_W_6_2L_6x6_Stable.log
+300 packets transmitted, 175 received, 41.6667% packet loss, time 302619ms
+rtt min/avg/max/mdev = 23.042/154.161/3185.347/483.537 ms, pipe 4
+M_W_6_30L_6x6_Initial.log
+600 packets transmitted, 1 received, +153 errors, 99.8333% packet loss, time 697344ms
+rtt min/avg/max/mdev = 23371.070/23371.070/23371.070/0.000 ms, pipe 23
+M_W_6_30L_6x6_Stable.log
+300 packets transmitted, 0 received, 100% packet loss, time 306459ms
+
+M_W_6_3L_6x6_Initial.log
+300 packets transmitted, 33 received, +117 errors, 89% packet loss, time 377563ms
+rtt min/avg/max/mdev = 26.241/5008.251/141998.249/24392.674 ms, pipe 75
+M_W_6_3L_6x6_Stable.log
+300 packets transmitted, 131 received, 56.3333% packet loss, time 304968ms
+rtt min/avg/max/mdev = 23.907/105.730/878.969/129.581 ms
+M_W_6_5L_6x6_Initial.log
+300 packets transmitted, 16 received, +130 errors, 94.6667% packet loss, time 357190ms
+rtt min/avg/max/mdev = 27.679/4789.122/27652.049/9485.964 ms, pipe 27
+M_W_6_5L_6x6_Stable.log
+300 packets transmitted, 79 received, 73.6667% packet loss, time 306257ms
+rtt min/avg/max/mdev = 26.062/105.098/629.999/108.751 ms

@@ -1,0 +1,30 @@
+PING 198.51.100.100 (198.51.100.100) 1232(1260) bytes of data.
+1240 bytes from 198.51.100.100: icmp_seq=6 ttl=51 time=111 ms
+1240 bytes from 198.51.100.100: icmp_seq=7 ttl=51 time=38.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=14 ttl=51 time=69.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=26 ttl=51 time=98.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=37 ttl=51 time=147 ms
+1240 bytes from 198.51.100.100: icmp_seq=44 ttl=51 time=153 ms
+1240 bytes from 198.51.100.100: icmp_seq=61 ttl=51 time=22.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=65 ttl=51 time=80.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=70 ttl=51 time=56.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=75 ttl=51 time=47.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=78 ttl=51 time=116 ms
+1240 bytes from 198.51.100.100: icmp_seq=79 ttl=51 time=61.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=91 ttl=51 time=75.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=107 ttl=51 time=27.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=109 ttl=51 time=101 ms
+1240 bytes from 198.51.100.100: icmp_seq=155 ttl=51 time=50.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=163 ttl=51 time=115 ms
+1240 bytes from 198.51.100.100: icmp_seq=164 ttl=51 time=33.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=178 ttl=51 time=55.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=205 ttl=51 time=74.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=206 ttl=51 time=75.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=225 ttl=51 time=48.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=247 ttl=51 time=50.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=253 ttl=51 time=77.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=273 ttl=51 time=29.2 ms
+
+--- 198.51.100.100 ping statistics ---
+300 packets transmitted, 25 received, 91.6667% packet loss, time 309018ms
+rtt min/avg/max/mdev = 22.905/72.615/153.179/35.116 ms

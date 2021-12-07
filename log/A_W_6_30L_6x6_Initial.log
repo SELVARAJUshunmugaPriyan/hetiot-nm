@@ -1,0 +1,15 @@
+PING 198.51.100.100 (198.51.100.100) 1232(1260) bytes of data.
+From 192.168.10.22: icmp_seq=1 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=6 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=7 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=8 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.55 icmp_seq=7 Destination Host Unreachable
+From 192.168.10.22: icmp_seq=13 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=16 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=19 Redirect Host(New nexthop: 192.168.10.33)
+From 192.168.10.22: icmp_seq=25 Redirect Host(New nexthop: 192.168.10.33)
+1240 bytes from 198.51.100.100: icmp_seq=529 ttl=51 time=68.8 ms
+
+--- 198.51.100.100 ping statistics ---
+300 packets transmitted, 1 received, 99.6667% packet loss, time 612606ms
+rtt min/avg/max/mdev = 68.786/68.786/68.786/0.000 ms

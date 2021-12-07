@@ -1,0 +1,65 @@
+PING 198.51.100.100 (198.51.100.100) 1232(1260) bytes of data.
+1240 bytes from 198.51.100.100: icmp_seq=1 ttl=61 time=58.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=2 ttl=61 time=31.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=3 ttl=61 time=32.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=4 ttl=61 time=38.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=5 ttl=61 time=49.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=6 ttl=61 time=60.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=7 ttl=61 time=25.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=8 ttl=61 time=30.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=9 ttl=61 time=19.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=10 ttl=61 time=19.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=11 ttl=61 time=22.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=12 ttl=61 time=51.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=13 ttl=61 time=30.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=14 ttl=61 time=32.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=15 ttl=61 time=18.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=16 ttl=61 time=54.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=17 ttl=61 time=51.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=18 ttl=61 time=56.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=19 ttl=61 time=33.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=20 ttl=61 time=38.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=21 ttl=61 time=46.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=22 ttl=61 time=50.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=23 ttl=61 time=59.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=24 ttl=61 time=18.1 ms
+1240 bytes from 198.51.100.100: icmp_seq=25 ttl=61 time=55.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=26 ttl=61 time=73.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=27 ttl=61 time=23.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=28 ttl=61 time=22.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=29 ttl=61 time=11.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=30 ttl=61 time=11.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=31 ttl=61 time=10.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=32 ttl=61 time=22.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=33 ttl=61 time=15.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=34 ttl=61 time=70.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=35 ttl=61 time=24.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=36 ttl=61 time=23.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=37 ttl=61 time=22.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=38 ttl=61 time=40.3 ms
+1240 bytes from 198.51.100.100: icmp_seq=39 ttl=61 time=53.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=40 ttl=61 time=55.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=41 ttl=61 time=12.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=42 ttl=61 time=23.6 ms
+1240 bytes from 198.51.100.100: icmp_seq=43 ttl=61 time=42.7 ms
+1240 bytes from 198.51.100.100: icmp_seq=44 ttl=61 time=17.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=45 ttl=61 time=14.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=46 ttl=61 time=29.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=47 ttl=61 time=63.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=48 ttl=61 time=19.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=49 ttl=61 time=110 ms
+1240 bytes from 198.51.100.100: icmp_seq=50 ttl=61 time=29.5 ms
+1240 bytes from 198.51.100.100: icmp_seq=51 ttl=61 time=40.8 ms
+1240 bytes from 198.51.100.100: icmp_seq=52 ttl=61 time=81.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=53 ttl=61 time=21.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=54 ttl=61 time=23.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=55 ttl=61 time=47.0 ms
+1240 bytes from 198.51.100.100: icmp_seq=56 ttl=61 time=18.2 ms
+1240 bytes from 198.51.100.100: icmp_seq=57 ttl=61 time=66.9 ms
+1240 bytes from 198.51.100.100: icmp_seq=58 ttl=61 time=30.4 ms
+1240 bytes from 198.51.100.100: icmp_seq=59 ttl=61 time=9.78 ms
+1240 bytes from 198.51.100.100: icmp_seq=60 ttl=61 time=19.1 ms
+
+--- 198.51.100.100 ping statistics ---
+60 packets transmitted, 60 received, 0% packet loss, time 59626ms
+rtt min/avg/max/mdev = 9.783/36.388/110.107/20.357 ms

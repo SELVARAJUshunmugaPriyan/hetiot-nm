@@ -1,0 +1,6 @@
+lowpan5 2005::1cce:f529:46f1:f6ad
+lowpan4 2005::1c0d:52c2:ba06:368e
+lowpan3 2005::4c8e:5e9c:d284:87b9
+lowpan2 2005::ccec:2b2b:af48:245c
+lowpan1 2005::458:b44a:dacf:5b0c
+lowpan0 2005::1

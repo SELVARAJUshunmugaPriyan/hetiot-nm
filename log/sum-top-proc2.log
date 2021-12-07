@@ -1,0 +1,7 @@
+type No_of_nodes PLR min avg max std_dev
+DistributedRouting 10 5 10.862 51.041 488.430 74.209
+DistributedRouting 20 5.83333 13.249 32.135 285.660 38.882
+DistributedRouting 30 6.66667 14.750 102.598 4140.372 339.751
+DistributedRouting 40 8.16667 16.084 354.732 12312.780 1505.253
+DistributedRouting 50 25 17.618 2287.769 86709.774 9693.713
+DistributedRouting 60 31.3333 21.308 5491.856 108664.224 19932.242

@@ -1,0 +1,21 @@
+Type	Period	Topology	Throughput			
+Holistic Network Management	Initial	1x1	510.35			
+		2x2	197.32			
+		3x3	291.51			
+		5x5	168.16			
+		6x6	131.55			
+	Stable	1x1	828.24			
+		2x2	785.80			
+		3x3	245.73			
+		5x5	199.95			
+		6x6	191.60			
+Distributed Routing	Initial	1x1	304.50			
+		2x2	238.54			
+		3x3	145.59			
+		5x5	2.14			
+		6x6	1.35			
+	Stable	1x1	449.60			
+		2x2	784.74			
+		3x3	161.01			
+		5x5	165.42			
+		6x6	149.92			

@@ -1,0 +1,7 @@
+type Loss PLR min avg max std_dev
+Distributed_Routing 0 19 23.676 1967.781 30498.539 5951.786
+Distributed_Routing 1 44 23.462 2357.852 122501.811 13299.005
+Distributed_Routing 2 62.1667 23.643 6607.939 159935.809 24167.470
+Distributed_Routing 3 65.5 23.469 7280.379 140948.337 24006.447
+Distributed_Routing 5 79.5 24.787 8541.98 174848.173 33672.5
+Distributed_Routing 10 91.5 26.8 11074.99 179846 40509.2
