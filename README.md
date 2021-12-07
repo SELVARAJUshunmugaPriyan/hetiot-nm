@@ -4,6 +4,7 @@
 * [Description](#Description)
 
 ## Project
+```
 Title:          Rapid Prototype of Network Manager in Simulated Heterogeneous
                 IoT Networks (hetiot-nm)
 
@@ -18,7 +19,7 @@ Publication:    Selvaraju, S.P., Balador, A., Fotouhi, H., Vahabi, M. and
 
 Developer:      Selvaraju, Shunmuga Priyan
 e-mail:         shunmuga.selvaraju@mdh.se (shanmu.thukaram@gmail.com)
-	
+```	
 ## Technologies
 Project is created with:
 * Mininet-wifi
@@ -28,6 +29,7 @@ Project is created with:
 * Ubuntu-20.04
 	
 ## Description
+```
 /
 |- conf/            holds conffiguration files used in setting up 6LoWPAN 
 |                   network simulation
@@ -38,7 +40,7 @@ Project is created with:
        mn-wifi-vm/  holds scripts to run inside the VM for running mininet-WiFi
        rpld-vm/     holds scripts to run inside the VM for running linux-wpan/
                     rpld
-
+```
 ### Important files
 adhoc* - script files to be runned for demonstrating centrally managed networks
          using IP tool in Linux systems.
