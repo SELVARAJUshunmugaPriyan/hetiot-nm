@@ -53,3 +53,9 @@ routing, node-addressing and connection establishment in both wireless networks.
 The experiment was primarily developed to showcase the versatility of a centrally
 managed network in controlling and configuring IoT hetnets against the limitatio-
 ns of distributed networking where individual nodes perform the routing functions.
+
+The following use case has been implemented:
+![plot](.pictures/heteroNet.jpg)
+
+With the following configuration:
+![plot](.pictures/NetIntop.jpg)
